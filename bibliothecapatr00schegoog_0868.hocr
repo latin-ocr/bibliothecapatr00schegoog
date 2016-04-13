@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./bibliothecapatr00schegoog/bibliothecapatr00schegoog_0868.png"; bbox 0 0 3246 5474; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 753 4581 1119 4631">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 753 4581 1119 4631">
+     <span class='ocr_line' id='line_1_1' title="bbox 753 4581 1119 4631; baseline 0 -9"><span class='ocrx_word' id='word_1_1' title='bbox 753 4581 826 4623; x_wconf 71' lang='lat' dir='ltr'>Druck</span> <span class='ocrx_word' id='word_1_2' title='bbox 839 4591 880 4622; x_wconf 80' lang='lat' dir='ltr'><strong>von</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 895 4581 963 4622; x_wconf 69' lang='lat' dir='ltr'><strong>Adon</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 974 4581 1119 4631; x_wconf 71' lang='lat' dir='ltr'><strong>flolnhauun.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 651 4643 1206 4682">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 651 4643 1206 4682">
+     <span class='ocr_line' id='line_1_2' title="bbox 651 4643 1206 4682; baseline 0 -2"><span class='ocrx_word' id='word_1_5' title='bbox 651 4645 671 4680; x_wconf 74' lang='lat' dir='ltr'><strong>k.</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 677 4643 717 4681; x_wconf 67' lang='lat' dir='ltr'><strong>ud</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 728 4645 747 4680; x_wconf 78' lang='lat' dir='ltr'><strong>k.</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 754 4643 797 4680; x_wconf 70' lang='lat' dir='ltr'><strong>Ed·</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 805 4643 844 4679; x_wconf 72' lang='lat' dir='ltr'><strong>ud</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 853 4643 1115 4682; x_wconf 60' lang='lat' dir='ltr'><strong>omum-nanum„</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1122 4643 1142 4680; x_wconf 72' lang='lat' dir='ltr'><strong>ln</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1150 4643 1206 4680; x_wconf 67' lang='lat' dir='ltr'><strong>meu·</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1628 5474">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1628 5474">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1628 5474; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 0 0 1628 5474; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

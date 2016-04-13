@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./bibliothecapatr00schegoog/bibliothecapatr00schegoog_0370.png"; bbox 0 0 3138 5478; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 609 935 950 1014">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 609 935 950 1014">
+     <span class='ocr_line' id='line_1_1' title="bbox 609 935 950 1014; baseline 0.018 -6"><span class='ocrx_word' id='word_1_1' title='bbox 609 939 749 1012; x_wconf 78' lang='lat' dir='ltr'>PUBLIC</span> <span class='ocrx_word' id='word_1_2' title='bbox 766 935 950 1014; x_wconf 73' lang='lat' dir='ltr'>LIBRARY</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 620 4543 1170 4642">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 620 4543 1170 4642">
+     <span class='ocr_line' id='line_1_2' title="bbox 721 4543 1084 4592; baseline 0.003 -8"><span class='ocrx_word' id='word_1_3' title='bbox 721 4543 792 4584; x_wconf 77' lang='lat' dir='ltr'>Druck</span> <span class='ocrx_word' id='word_1_4' title='bbox 806 4555 847 4584; x_wconf 82' lang='lat' dir='ltr'><strong>von</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 861 4544 928 4584; x_wconf 73' lang='lat' dir='ltr'><strong>Adolf</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 941 4543 1084 4592; x_wconf 67' lang='lat' dir='ltr'><strong>flolzhtum.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 620 4605 1170 4642; baseline 0.002 -2"><span class='ocrx_word' id='word_1_7' title='bbox 620 4607 638 4640; x_wconf 73' lang='lat' dir='ltr'><strong>k.</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 645 4605 684 4640; x_wconf 74' lang='lat' dir='ltr'><strong>nd</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 695 4605 714 4640; x_wconf 70' lang='lat' dir='ltr'><strong>k.</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 722 4605 764 4639; x_wconf 75' lang='lat' dir='ltr'><strong>flor·</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 772 4605 811 4639; x_wconf 74' lang='lat' dir='ltr'><strong>und</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 819 4605 1080 4642; x_wconf 62' lang='lat' dir='ltr'><strong>universim-emnem</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1087 4605 1107 4641; x_wconf 71' lang='lat' dir='ltr'>h</span> <span class='ocrx_word' id='word_1_14' title='bbox 1114 4605 1170 4641; x_wconf 67' lang='grc' dir='ltr'><strong>11η</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1574 5478">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1574 5478">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1574 5478; baseline 0 0"><span class='ocrx_word' id='word_1_15' title='bbox 0 0 1574 5478; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
